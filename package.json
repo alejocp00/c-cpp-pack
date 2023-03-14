@@ -1,0 +1,26 @@
+{
+  "name": "c-cpp-pack",
+  "displayName": ":C/C++ pack",
+  "publisher": "AlejoCP00",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/alejocp00/c-cpp-pack/"
+  },
+  "bugs": {
+    "url": "https://github.com/alejocp00/c-cpp-pack/issues"
+  },
+  "license": "mit",
+  "description": "A collection of all C/C++ extensions that I'm using",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-vscode.cpptools-extension-pack",
+    "cschlosser.doxdocgen",
+    "twxs.cmake"
+  ]
+}
